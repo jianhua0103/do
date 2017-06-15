@@ -1,0 +1,16 @@
+*{font-family:Verdana; font-size:96%;}
+legend{font-size:16px;}
+label{width:6em; float:left;margin:0 1.2em 0 5em;text-align:right;font-size:14px;}
+label.error{float:none; color:red; padding-left:0.5em; vertical-align:top;}
+p{clear:both;margin:1.5em 0 0 0;}
+.submit{margin:1.2em 0 1.5em 17em;width:76px;height:28px;}
+em{font-weight:bold;margin:0 0.5em 0 0.5em;vertical-align:top;color:#EA0000;}
+#warning{  
+    position:absolute;  
+    color:red;  
+    font-size: 14px;  
+    font-weight: normal;  
+    font-style: normal;  
+    text-decoration: none; 
+	margin-left:0.5em;
+} 
