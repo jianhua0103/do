@@ -9,7 +9,7 @@
 session_start();     
 $username=$_REQUEST["username"];    
 $password=$_REQUEST["password"];      
-$con=mysql_connect("localhost","root","123456");    
+$con=mysql_connect("192.1681.102","root","123456");    
 if (!$con) {       
 	die('数据库连接失败'.$mysql_error());     
 }     
